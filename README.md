@@ -20,7 +20,11 @@
 
 #### The exoskeleton robot needs to switch different gait to adapt to various terrains. The traditional human-robot interaction control method is complicated and inefficient, so I propose an exoskeleton control strategy based on visual perception control. The technique recognizes different terrains such as flat ground, stairs, etc., using a semantic segmentation deep learning model, and controls the exoskeleton by a finite state machine. The recognition effect of the method is shown in Figure 2.
 ---
+<div align='center'>
+  
 ![image154.gif](image154.gif) ![image158.gif](image158.gif)
+  
+  </div>
 <div align='center'>
   
 > Figure 2. Multi-terrain semantic segmentation
@@ -33,7 +37,11 @@
 
 #### The spherical robot is a reconnaissance robot, so it needs to have a strong environment perception capability. The spherical robot is composed of two symmetrical flywheel mechanisms with cameras mounted on both sides. In this project, I focused on the panoramic stitching technique under binocular vision and the target detection technique under HSV color space. Figure 5 shows the 3D design and prototype of the robot.
 ---
+<div align='center'>
+  
 ![f5.gif](f5.gif)
+  
+  </div>
 <div align='center'>
   
 > Figure 3. 3D design model of a spherical robot based on binocular vision
@@ -47,7 +55,7 @@
 #### This project designed a hand exoskeleton to help rehabilitate patients with hand disorders. In this project, I developed a 3D signal construction method using human surface electromyogram (sEMG) signals as a neural network input. I built a full-dimensional convolutional analysis network to output the hand motion intention.
 
 ---
-![f5.gif](f5.gif)
+![f22.png](f22.png)
 <div align='center'>
   
 > Figure 4. Exoskeleton gloves, the left is the 1st generation, and the right is the 2nd generation
