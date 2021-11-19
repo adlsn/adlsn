@@ -1,7 +1,7 @@
 # Xi'an Jiaotong University ✨ Institute of Robotics & Intelligent System
 ---
-## **Research Projects**
-### 1. Design of lower limb ankle lasso exoskeleton robot
+## ***Research Projects***
+## 1. Design of lower limb ankle lasso exoskeleton robot
 
 [Project Details](https://github.com/adlsn/Lower-limb-ankle-lasso-exoskeleton-robot)
 
@@ -14,11 +14,11 @@
   </div>
   
 ---
-### 2. Semantic segmentation scene perception method
+## 2. Semantic segmentation scene perception method
 
 [Project Details](https://github.com/adlsn/Visual-perception-control-project-of-Exoskeleton-Robot)
 
-#### The exoskeleton robot needs to switch different gait to adapt to various terrains. The traditional human-robot interaction control method is complicated and inefficient, so I propose an exoskeleton control strategy based on visual perception control. The technique recognizes different terrains such as flat ground, stairs, etc., using a semantic segmentation deep learning model, and controls the exoskeleton by a finite state machine. The recognition effect of the method is shown in Figure 2.
+#### The exoskeleton robot needs to switch different gait to adapt to various terrains. The traditional human-robot interaction control method is complicated and inefficient, so I propose an exoskeleton control strategy based on *`visual perception control`*. The technique recognizes different terrains such as flat ground, stairs, etc., using a *`semantic segmentation`* deep learning model, and controls the exoskeleton by a *`finite state machine`*. The recognition effect of the method is shown in Figure 2.
 ---
 <div align='center'>
   
@@ -31,11 +31,11 @@
   </div>
   
 ---
-### 3. Research on visual perception of spherical robots
+## 3. Research on visual perception of spherical robots
 
 [Project Details](https://github.com/adlsn/Spherical-robot-machine-vision)
 
-#### The spherical robot is a reconnaissance robot, so it needs to have a strong environment perception capability. The spherical robot is composed of two symmetrical flywheel mechanisms with cameras mounted on both sides. In this project, I focused on the panoramic stitching technique under binocular vision and the target detection technique under HSV color space. Figure 5 shows the 3D design and prototype of the robot.
+#### The spherical robot is a reconnaissance robot, so it needs to have a strong environment perception capability. The spherical robot is composed of two symmetrical flywheel mechanisms with cameras mounted on both sides. In this project, I focused on the *`panoramic stitching technique`* under binocular vision and the target detection technique under HSV color space. Figure 3 shows the 3D design and prototype of the robot.
 ---
 <div align='center'>
   
@@ -48,11 +48,11 @@
   </div>
 
 ---
-### 4. Study on tactile sEMG signal of exoskeleton gloves
+## 4. Study on tactile sEMG signal of exoskeleton gloves
 
 [Project Details](https://github.com/adlsn/sEMG-processing-software-design)
 
-#### This project designed a hand exoskeleton to help rehabilitate patients with hand disorders. In this project, I developed a 3D signal construction method using human surface electromyogram (sEMG) signals as a neural network input. I built a full-dimensional convolutional analysis network to output the hand motion intention.
+#### This project designed a hand exoskeleton to help rehabilitate patients with hand disorders. In this project, I developed a *`3D signal construction method`* using human surface electromyogram (sEMG) signals as a neural network input. I built a *`full-dimensional convolutional analysis network`* to output the hand motion intention.
 
 ---
 ![f22.png](f22.png)
@@ -65,7 +65,7 @@
 <div align='center'>
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlsn&theme=radical&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlsn&langs_count=5&hide=C&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlsn&langs_count=5&hide=C,Assembly&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 
