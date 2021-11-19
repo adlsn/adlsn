@@ -16,7 +16,7 @@
 ---
 ### 2. Semantic segmentation scene perception method
 
-[Project Details](https://github.com/adlsn/Spherical-robot-machine-vision)
+[Project Details](https://github.com/adlsn/Visual-perception-control-project-of-Exoskeleton-Robot)
 
 #### The exoskeleton robot needs to switch different gait to adapt to various terrains. The traditional human-robot interaction control method is complicated and inefficient, so I propose an exoskeleton control strategy based on visual perception control. The technique recognizes different terrains such as flat ground, stairs, etc., using a semantic segmentation deep learning model, and controls the exoskeleton by a finite state machine. The recognition effect of the method is shown in Figure 2.
 ---
