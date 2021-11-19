@@ -50,7 +50,7 @@
 ---
 ### 4. Study on tactile sEMG signal of exoskeleton gloves
 
-[Project Details](https://github.com/adlsn/Lower-limb-ankle-lasso-exoskeleton-robot)
+[Project Details](https://github.com/adlsn/sEMG-processing-software-design)
 
 #### This project designed a hand exoskeleton to help rehabilitate patients with hand disorders. In this project, I developed a 3D signal construction method using human surface electromyogram (sEMG) signals as a neural network input. I built a full-dimensional convolutional analysis network to output the hand motion intention.
 
