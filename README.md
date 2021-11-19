@@ -60,6 +60,14 @@
   
 > Figure 4. Exoskeleton gloves, the left is the 1st generation, and the right is the 2nd generation
   </div>
+  
+---
+<div align='center'>
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlsn&theme=radical&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlsn&langs_count=5&hide=C)](https://github.com/anuraghazra/github-readme-stats)
+  
+  </div>
 
 <!--
 **adlsn/adlsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
