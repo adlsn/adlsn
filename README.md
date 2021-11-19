@@ -5,7 +5,8 @@
 To help the elderly usually walk, I designed a lasso exoskeleton robot in this project. The robot provides tension to the human ankle joint through a back-powered box to reduce human movement metabolism. The robot is equipped with a depth camera in front, which uses a semantic segmentation deep learning model to determine the current motion scene and optimize the motion control of the robot. The structure of the robot is shown in Figure 1.
 
 <div align='center>
-            <img src=''>
+<img src='fig1.png'>
+</div>
 
 
 <!--
