@@ -1,7 +1,8 @@
+# University of Notre Dame ✨ Computer Science Engineering
 # Xi'an Jiaotong University ✨ Institute of Robotics & Intelligent System
 ---
 ## ***Research Projects***
-## 1. Design of lower limb ankle lasso exoskeleton robot
+## 1. Design of lower limb ankle cable-driven exoskeleton robot
 
 [Project Details](https://github.com/adlsn/Lower-limb-ankle-lasso-exoskeleton-robot)
 
