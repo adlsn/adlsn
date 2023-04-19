@@ -23,7 +23,7 @@
 #### Particles in a 3D flow field form the stream surface. Tornado, Bernard, and two swirls are typical flow data. In this project, we want to use multiple `surfpatches` to characterize stream surface features, cluster these patches by their inherent patterns, and assist domain experts in attaining and analyzing similar surfaces.
 ---
 <div align='center'>
-<img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
+<img src='video.gif'>
 </div> 
 <div align='center'>
 > Figure 2. Stream surface
@@ -37,7 +37,8 @@
 #### Vascular segmentation plays an essential role in medical images. The volume of vessels from medical images can be used to reconstruct the 3D mesh of blood vessels, and the 3D mesh of blood vessels can be used for the simulation analysis of blood pressure and flow. In this project, we mainly focus on `aorta` vessels and use a semantic segmentation model based on `U-Net` and `image gradients` to segment the trunk and branches of vessels.
 ---
 <div align='center'>
-<img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
+<img src='Picture3.png'>
+<img src='Picture2.png'>
 </div> 
 <div align='center'>
 > Figure 3. Aorta vessel semantic segmentation
