@@ -2,7 +2,7 @@
 # Xi'an Jiaotong University ✨ Institute of Robotics & Intelligent System
 ---
 ## ***Research Projects***
-## 1. Design of lower limb ankle cable-driven exoskeleton robot
+## 1. Design of lower limb joint assistive exoskeleton robot
 
 [Project Details](https://github.com/adlsn/Lower-limb-ankle-lasso-exoskeleton-robot)
 
@@ -12,7 +12,7 @@
 <img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
 </div> 
 <div align='center'>
-> Figure 1. Lower limb ankle lasso exoskeleton robot
+> Figure 1. Lower limb ankle joint assistive exoskeleton
   </div>
 
 ---
