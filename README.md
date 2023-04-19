@@ -6,16 +6,45 @@
 
 [Project Details](https://github.com/adlsn/Lower-limb-ankle-lasso-exoskeleton-robot)
 
-#### To help the elderly usually walk, I designed a *`cable driven exoskeleton robot`* in this project. The robot provides tension to the human ankle joint through a back-powered box to reduce human movement metabolism. The robot is equipped with a *`depth camera`* in front, which uses a *`semantic segmentation`* deep learning model to determine the current motion scene and optimize the motion control of the robot. The structure of the robot is shown in Figure 1.
+#### To help the elderly walk normally, I designed a *`cable-driven exoskeleton robot`* in this project. The robot provides tension to the human ankle joint through a back-powered box to reduce human movement metabolism. The robot is equipped with a *`depth camera`* in the front, which uses a *`semantic segmentation`* deep learning model to determine the current motion scene and optimize the motion control of the robot. The structure of the robot is shown in Figure 1.
 ---
-![fig1.png](fig1.png)
 <div align='center'>
-  
+<img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
+</div> 
+<div align='center'>
 > Figure 1. Lower limb ankle lasso exoskeleton robot
   </div>
-  
+
 ---
-## 2. Semantic segmentation scene perception method
+## 2. Stream surface clustering based on GCN contrasting learning
+
+[Project Details](https://github.com/adlsn/Surf-Patch)
+
+#### Particles in a 3D flow field form the stream surface. Tornado, Bernard, and two swirls are typical flow data. In this project, we want to use multiple `surfpatches` to characterize stream surface features, cluster these patches by their inherent patterns, and assist domain experts in attaining and analyzing similar surfaces.
+---
+<div align='center'>
+<img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
+</div> 
+<div align='center'>
+> Figure 2. Stream surface
+  </div>
+
+--- 
+## 3. Aorta vessel semantic segmentation
+
+[Project Details](https://github.com/adlsn/Aorta_Segmentation)
+
+#### Vascular segmentation plays an essential role in medical images. The volume of vessels from medical images can be used to reconstruct the 3D mesh of blood vessels, and the 3D mesh of blood vessels can be used for the simulation analysis of blood pressure and flow. In this project, we mainly focus on `aorta` vessels and use a semantic segmentation model based on `U-Net` and `image gradients` to segment the trunk and branches of vessels.
+---
+<div align='center'>
+<img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
+</div> 
+<div align='center'>
+> Figure 3. Aorta vessel semantic segmentation
+  </div>
+
+---
+## 4. Semantic segmentation scene perception method
 
 [Project Details](https://github.com/adlsn/Visual-perception-control-project-of-Exoskeleton-Robot)
 
@@ -28,11 +57,11 @@
   </div>
 <div align='center'>
   
-> Figure 2. Multi-terrain semantic segmentation
+> Figure 4. Multi-terrain semantic segmentation
   </div>
   
 ---
-## 3. Research on visual perception of spherical robots
+## 5. Research on visual perception of spherical robots
 
 [Project Details](https://github.com/adlsn/Spherical-robot-machine-vision)
 
@@ -45,11 +74,11 @@
   </div>
 <div align='center'>
   
-> Figure 3. 3D design model of a spherical robot based on binocular vision
+> Figure 5. 3D design model of a spherical robot based on binocular vision
   </div>
 
 ---
-## 4. Study on tactile sEMG signal of exoskeleton gloves
+## 6. Study on tactile sEMG signal of exoskeleton gloves
 
 [Project Details](https://github.com/adlsn/sEMG-processing-software-design)
 
@@ -59,7 +88,7 @@
 ![f22.png](f22.png)
 <div align='center'>
   
-> Figure 4. Exoskeleton gloves, the left is the 1st generation, and the right is the 2nd generation
+> Figure 6. Exoskeleton gloves, the left is the 1st generation, and the right is the 2nd generation
   </div>
   
 ---
