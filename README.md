@@ -38,7 +38,7 @@
 ---
 <div align='center'>
 <img src='Picture3.png'>
-<img src='Picture2.png'>
+<img src='medical_image.png'>
 </div> 
 <div align='center'>
 > Figure 3. Aorta vessel semantic segmentation
