@@ -26,7 +26,7 @@
 <img src='video.gif'>
 </div> 
 <div align='center'>
-> Figure 2. Stream surface
+> Figure 2. Custom UI for Stream surface
   </div>
 
 --- 
