@@ -2,95 +2,92 @@
 # Xi'an Jiaotong University ✨ Institute of Robotics & Intelligent System
 ---
 ## ***Research Projects***
-## 1. Design of lower limb joint assistive exoskeleton robot
+## 1. Design of Lower Limb Joint-Assistive Exoskeleton Robot
 
 [Project Details](https://github.com/adlsn/Lower-limb-ankle-lasso-exoskeleton-robot)
 
-#### To help the elderly walk normally, I designed a *`cable-driven exoskeleton robot`* in this project. The robot provides tension to the human ankle joint through a back-powered box to reduce human movement metabolism. The robot is equipped with a *`depth camera`* in the front, which uses a *`semantic segmentation`* deep learning model to determine the current motion scene and optimize the motion control of the robot. The structure of the robot is shown in Figure 1.
+#### In order to assist the elderly with walking, I created a *`robot exoskeleton`* that uses cables for movement. The robot applies pressure to the ankle joint through a powered box, which helps to reduce the amount of energy needed to move. Additionally, the robot is equipped with a *`front-facing depth camera`* that uses a deep learning model to analyze the current surroundings and improve the robot's motion control. See Figure 1 for a detailed view of the robot's structure.
 ---
 <div align='center'>
 <img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
 </div> 
 <div align='center'>
-> Figure 1. Lower limb ankle joint assistive exoskeleton
-  </div>
+> Figure 1. Lower limb ankle joint-assistive exoskeleton
+</div>
 
 ---
-## 2. Stream surface clustering based on GCN contrasting learning
+## 2. Contrastive Learning-Based Stream Surface Clustering using GCN
 
 [Project Details](https://github.com/adlsn/Surf-Patch)
 
-#### Particles in a 3D flow field form the stream surface. Tornado, Bernard, and two swirls are typical flow data. In this project, we want to use multiple `surfpatches` to characterize stream surface features, cluster these patches by their inherent patterns, and assist domain experts in attaining and analyzing similar surfaces.
+#### The surface of a stream is formed by particles in a 3D flow field, which can include data such as tornadoes, Bernard cells, and swirls. Our project aims to identify and analyze these stream surface features using multiple `surfpatches` and grouping them based on their unique patterns. This will help domain experts to better understand and analyze similar surfaces.
 ---
 <div align='center'>
 <img src='video.gif'>
 </div> 
 <div align='center'>
 > Figure 2. Custom UI for Stream surface
-  </div>
+</div>
 
 --- 
-## 3. Aorta vessel semantic segmentation
+## 3. Semantic Segmentation of Aorta Vessels: An Advanced Approach
 
 [Project Details](https://github.com/adlsn/Aorta_Segmentation)
 
-#### Vascular segmentation plays an essential role in medical images. The volume of vessels from medical images can be used to reconstruct the 3D mesh of blood vessels, and the 3D mesh of blood vessels can be used for the simulation analysis of blood pressure and flow. In this project, we mainly focus on `aorta` vessels and use a semantic segmentation model based on `U-Net` and `image gradients` to segment the trunk and branches of vessels.
+#### Vascular segmentation plays a crucial role in medical image analysis as it enables the extraction of valuable information regarding blood vessels. By accurately delineating the vessels, we can obtain volumetric data that can be utilized for reconstructing a comprehensive 3D mesh representation. The resulting 3D mesh is invaluable for conducting simulation analyses, particularly in the assessment of blood pressure and flow dynamics.
+
+In this project, our primary focus lies on segmenting the vessels of the aorta, a significant artery in the human body. To achieve this, we employ a semantic segmentation model based on the well-established U-Net architecture, augmented with the utilization of image gradients for enhanced accuracy. Our methodology aims to precisely identify and classify both the main trunk and intricate branches of the aorta vessels, facilitating a comprehensive understanding of their structure and characteristics.
 ---
 <div align='center'>
 <img src='Picture3.png'>
 <img src='medical_image.png'>
 </div> 
 <div align='center'>
-> Figure 3. Aorta vessel semantic segmentation
-  </div>
+> Figure 3. Semantic Segmentation of Aorta Vessels
+</div>
 
 ---
-## 4. Semantic segmentation scene perception method
+## 4. Advancing Scene Perception through Semantic Segmentation Methods
 
 [Project Details](https://github.com/adlsn/Visual-perception-control-project-of-Exoskeleton-Robot)
 
-#### The exoskeleton robot needs to switch different gait to adapt to various terrains. The traditional human-robot interaction control method is complicated and inefficient, so I propose an exoskeleton control strategy based on *`visual perception control`*. The technique recognizes different terrains such as flat ground, stairs, etc., using a *`semantic segmentation`* deep learning model, and controls the exoskeleton by a *`finite state machine`*. The recognition effect of the method is shown in Figure 2.
+#### This research proposes a streamlined exoskeleton control strategy based on visual perception. By leveraging a deep learning model for *`semantic segmentation`*, different terrains like flat ground and stairs can be accurately recognized. The exoskeleton adjusts its gait accordingly to adapt to the terrain, enhancing efficiency. The control system employs a `finite state machine` architecture, ensuring precise coordination of exoskeleton movements based on the recognized terrain type. Figure 2 demonstrates the effective terrain recognition capabilities and successful integration of the proposed method into the exoskeleton control system.
 ---
 <div align='center'>
   
 ![image154.gif](image154.gif) ![image158.gif](image158.gif)
   
-  </div>
+</div>
 <div align='center'>
-  
-> Figure 4. Multi-terrain semantic segmentation
-  </div>
+> Figure 4. Semantic Segmentation for Multi-Terrain Environments
+</div>
   
 ---
-## 5. Research on visual perception of spherical robots
+## 5. Advancing Visual Perception in Spherical Robots
 
 [Project Details](https://github.com/adlsn/Spherical-robot-machine-vision)
 
-#### The spherical robot is a reconnaissance robot, so it needs to have a strong environment perception capability. The spherical robot is composed of two symmetrical flywheel mechanisms with cameras mounted on both sides. In this project, I focused on the *`panoramic stitching technique`* under binocular vision and the target detection technique under HSV color space. Figure 3 shows the 3D design and prototype of the robot.
+#### Strengthening the environment perception capabilities of spherical reconnaissance robots, this project focuses on two key techniques: `panoramic stitching` under the binocular vision and target detection using the HSV color space. The robot, equipped with symmetrical flywheel mechanisms and cameras on both sides, seamlessly stitches together panoramic views to form a comprehensive visual representation. By leveraging the HSV color space, the robot efficiently detects and tracks targets of interest. The 3D design and prototype of the robot are showcased in Figure 3, highlighting the successful implementation of these techniques.
 ---
 <div align='center'>
-  
 ![f5.gif](f5.gif)
-  
-  </div>
+</div>
 <div align='center'>
-  
-> Figure 5. 3D design model of a spherical robot based on binocular vision
-  </div>
+> Figure 5. Spherical Robot Design through Binocular Vision-Based 3D Modeling
+</div>
 
 ---
-## 6. Study on tactile sEMG signal of exoskeleton gloves
+## 6. Tactile sEMG Signals in Exoskeleton Gloves
 
 [Project Details](https://github.com/adlsn/sEMG-processing-software-design)
 
-#### This project designed a hand exoskeleton to help rehabilitate patients with hand disorders. In this project, I developed a *`3D signal construction method`* using human surface electromyogram (sEMG) signals as a neural network input. I built a *`full-dimensional convolutional analysis network`* to output the hand motion intention.
+#### This project aimed to assist patients with hand disorders through the development of a specialized hand exoskeleton. Within this endeavor, I devised a novel 3D signal construction method utilizing surface electromyogram (sEMG) signals as inputs for a neural network. To accurately capture hand motion intention, a robust full-dimensional convolutional analysis network was constructed. These advancements contribute to the field of hand rehabilitation by enabling precise and intuitive control of the exoskeleton based on sEMG signals.
 
 ---
 ![f22.png](f22.png)
 <div align='center'>
-  
-> Figure 6. Exoskeleton gloves, the left is the 1st generation, and the right is the 2nd generation
-  </div>
+> Figure 6. Exoskeleton gloves, the left and right is the 1st and 2nd generation, respectively
+</div>
   
 ---
 <div align='center'>
@@ -98,7 +95,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adlsn&theme=radical&count_private=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adlsn&langs_count=5&hide=C,Assembly&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
-  </div>
+</div>
 
 <!--
 **adlsn/adlsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
