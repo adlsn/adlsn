@@ -34,9 +34,7 @@
 
 [Project Details](https://github.com/adlsn/Aorta_Segmentation)
 
-#### Vascular segmentation plays a crucial role in medical image analysis as it enables the extraction of valuable information regarding blood vessels. By accurately delineating the vessels, we can obtain volumetric data that can be utilized for reconstructing a comprehensive 3D mesh representation. The resulting 3D mesh is invaluable for conducting simulation analyses, particularly in the assessment of blood pressure and flow dynamics.
-
-In this project, our primary focus lies on segmenting the vessels of the aorta, a significant artery in the human body. To achieve this, we employ a semantic segmentation model based on the well-established U-Net architecture, augmented with the utilization of image gradients for enhanced accuracy. Our methodology aims to precisely identify and classify both the main trunk and intricate branches of the aorta vessels, facilitating a comprehensive understanding of their structure and characteristics.
+#### Vascular segmentation plays a crucial role in medical image analysis as it enables the extraction of valuable information regarding blood vessels. By accurately delineating the vessels, we can obtain volumetric data that can be utilized for reconstructing a comprehensive 3D mesh representation. The resulting 3D mesh is invaluable for conducting simulation analyses, particularly in the assessment of blood pressure and flow dynamics. In this project, our primary focus lies on segmenting the vessels of the aorta, a significant artery in the human body. To achieve this, we employ a semantic segmentation model based on the well-established U-Net architecture, augmented with the utilization of image gradients for enhanced accuracy. Our methodology aims to precisely identify and classify both the main trunk and intricate branches of the aorta vessels, facilitating a comprehensive understanding of their structure and characteristics.
 ---
 <div align='center'>
 <img src='Picture3.png'>
