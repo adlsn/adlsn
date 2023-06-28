@@ -9,10 +9,15 @@
 #### In order to assist the elderly with walking, I created a *`robot exoskeleton`* that uses cables for movement. The robot applies pressure to the ankle joint through a powered box, which helps to reduce the amount of energy needed to move. Additionally, the robot is equipped with a *`front-facing depth camera`* that uses a deep learning model to analyze the current surroundings and improve the robot's motion control. See Figure 1 for a detailed view of the robot's structure.
 ---
 <div align='center'>
+  
 <img src='1.png' width='150'><img src='背面2.png' width='238'><img src='正面1.png' width='200'>
+
 </div> 
+
 <div align='center'>
+  
 > Figure 1. Lower limb ankle joint-assistive exoskeleton
+
 </div>
 
 ---
@@ -23,10 +28,15 @@
 #### The surface of a stream is formed by particles in a 3D flow field, which can include data such as tornadoes, Bernard cells, and swirls. Our project aims to identify and analyze these stream surface features using multiple `surfpatches` and grouping them based on their unique patterns. This will help domain experts to better understand and analyze similar surfaces.
 ---
 <div align='center'>
+  
 <img src='video.gif'>
+
 </div> 
+
 <div align='center'>
+  
 > Figure 2. Custom UI for Stream surface
+
 </div>
 
 --- 
@@ -37,11 +47,16 @@
 #### Vascular segmentation plays a crucial role in medical image analysis as it enables the extraction of valuable information regarding blood vessels. By accurately delineating the vessels, we can obtain volumetric data that can be utilized for reconstructing a comprehensive 3D mesh representation. The resulting 3D mesh is invaluable for conducting simulation analyses, particularly in the assessment of blood pressure and flow dynamics. In this project, our primary focus lies on segmenting the vessels of the aorta, a significant artery in the human body. To achieve this, we employ a semantic segmentation model based on the well-established U-Net architecture, augmented with the utilization of image gradients for enhanced accuracy. Our methodology aims to precisely identify and classify both the main trunk and intricate branches of the aorta vessels, facilitating a comprehensive understanding of their structure and characteristics.
 ---
 <div align='center'>
+  
 <img src='Picture3.png'>
 <img src='medical_image.png'>
+
 </div> 
+
 <div align='center'>
->  3. Semantic Segmentation of Aorta Vessels
+  
+> Figure 3. Semantic Segmentation of Aorta Vessels
+
 </div>
 
 ---
@@ -56,8 +71,11 @@
 ![image154.gif](image154.gif) ![image158.gif](image158.gif)
   
 </div>
+
 <div align='center'>
+  
 > Figure 4. Semantic Segmentation for Multi-Terrain Environments
+
 </div>
   
 ---
@@ -88,8 +106,11 @@
 
 ---
 ![f22.png](f22.png)
+
 <div align='center'>
-> Figure 6. Exoskeleton gloves, the left and right are the 1st and 2nd generation, respectively
+  
+> Figure 6. Exoskeleton gloves, the left and right, are the 1st and 2nd generation, respectively
+
 </div>
   
 ---
