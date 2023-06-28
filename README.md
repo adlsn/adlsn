@@ -41,7 +41,7 @@
 <img src='medical_image.png'>
 </div> 
 <div align='center'>
-> Figure 3. Semantic Segmentation of Aorta Vessels
+>  3. Semantic Segmentation of Aorta Vessels
 </div>
 
 ---
@@ -49,7 +49,7 @@
 
 [Project Details](https://github.com/adlsn/Visual-perception-control-project-of-Exoskeleton-Robot)
 
-#### This research proposes a streamlined exoskeleton control strategy based on visual perception. By leveraging a deep learning model for *`semantic segmentation`*, different terrains like flat ground and stairs can be accurately recognized. The exoskeleton adjusts its gait accordingly to adapt to the terrain, enhancing efficiency. The control system employs a `finite state machine` architecture, ensuring precise coordination of exoskeleton movements based on the recognized terrain type. Figure 2 demonstrates the effective terrain recognition capabilities and successful integration of the proposed method into the exoskeleton control system.
+#### This research proposes a streamlined exoskeleton control strategy based on visual perception. By leveraging a deep learning model for *`semantic segmentation`*, different terrains like flat ground and stairs can be accurately recognized. The exoskeleton adjusts its gait accordingly to adapt to the terrain, enhancing efficiency. The control system employs a `finite state machine` architecture, ensuring precise coordination of exoskeleton movements based on the recognized terrain type. Figure 4 demonstrates the effective terrain recognition capabilities and successful integration of the proposed method into the exoskeleton control system.
 ---
 <div align='center'>
   
@@ -65,13 +65,18 @@
 
 [Project Details](https://github.com/adlsn/Spherical-robot-machine-vision)
 
-#### Strengthening the environment perception capabilities of spherical reconnaissance robots, this project focuses on two key techniques: `panoramic stitching` under the binocular vision and target detection using the HSV color space. The robot, equipped with symmetrical flywheel mechanisms and cameras on both sides, seamlessly stitches together panoramic views to form a comprehensive visual representation. By leveraging the HSV color space, the robot efficiently detects and tracks targets of interest. The 3D design and prototype of the robot are showcased in Figure 3, highlighting the successful implementation of these techniques.
+#### Strengthening the environment perception capabilities of spherical reconnaissance robots, this project focuses on two key techniques: `panoramic stitching` under the binocular vision and target detection using the HSV color space. The robot, equipped with symmetrical flywheel mechanisms and cameras on both sides, seamlessly stitches together panoramic views to form a comprehensive visual representation. By leveraging the HSV color space, the robot efficiently detects and tracks targets of interest. The 3D design and prototype of the robot are showcased in Figure 5, highlighting the successful implementation of these techniques.
 ---
 <div align='center'>
+  
 ![f5.gif](f5.gif)
+
 </div>
+
 <div align='center'>
+  
 > Figure 5. Spherical Robot Design through Binocular Vision-Based 3D Modeling
+
 </div>
 
 ---
@@ -84,7 +89,7 @@
 ---
 ![f22.png](f22.png)
 <div align='center'>
-> Figure 6. Exoskeleton gloves, the left and right is the 1st and 2nd generation, respectively
+> Figure 6. Exoskeleton gloves, the left and right are the 1st and 2nd generation, respectively
 </div>
   
 ---
