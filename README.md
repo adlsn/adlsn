@@ -2,7 +2,7 @@
 ---
 ## ***Research Projects***
 
-## 1. Stream Surface Clustering using GCN
+## 1. Stream Surface Clustering Interface
 
 [Project Details](https://github.com/adlsn/Surf-Patch)
 
